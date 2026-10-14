@@ -1,8 +1,12 @@
 # ASTRA 🪐
 
-**Uma jornada interativa em 3D pelo universo.**
+### Uma jornada interativa em 3D pelo universo.
 
-O ASTRA é um projeto de exploração espacial interativa que permite descobrir corpos celestes, navegar pelo Sistema Solar e explorar regiões do espaço profundo em um ambiente imersivo em 3D.
+🌌 **[✨ EXPLORAR O ASTRA — ACESSE AQUI](https://astra-henna-delta.vercel.app/)**
+
+Explore o Sistema Solar, descubra corpos celestes e viaje pelas regiões do espaço profundo em uma experiência interativa em 3D, diretamente pelo navegador. Não é necessário instalar nada para acessar a versão online!
+
+---
 
 ## ✨ Funcionalidades
 
@@ -21,35 +25,35 @@ O ASTRA é um projeto de exploração espacial interativa que permite descobrir 
 - React Three Fiber
 - Shaders WebGL (GLSL)
 
-## 🚀 Como executar o projeto
+## 🚀 Como executar o projeto localmente
 
-Para executar o ASTRA localmente, é necessário ter o Node.js e o npm instalados.
+Se quiser baixar o código e executar o ASTRA no seu próprio computador, você precisará ter o [Node.js](https://nodejs.org/) e o npm instalados.
 
-1. Clone este repositório:
+**1. Clone este repositório:**
 
-   ```bash
-   git clone https://github.com/JuliaFreireSoubhia/ASTRA.git
-   ```
+```bash
+git clone https://github.com/JuliaFreireSoubhia/ASTRA.git
+```
 
-2. Entre na pasta do projeto:
+**2. Entre na pasta do projeto:**
 
-   ```bash
-   cd ASTRA
-   ```
+```bash
+cd ASTRA
+```
 
-3. Instale as dependências:
+**3. Instale as dependências:**
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
-4. Inicie o servidor de desenvolvimento:
+**4. Inicie o servidor de desenvolvimento:**
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
-5. Abra no navegador o endereço local exibido no terminal.
+**5.** Abra no navegador o endereço local exibido no terminal.
 
 ## 🌌 Objetivo do projeto
 
@@ -63,4 +67,7 @@ O ASTRA está em desenvolvimento contínuo. Novas funcionalidades, melhorias vis
 
 **Julia Freire Soubhia**
 
-GitHub: [@JuliaFreireSoubhia](https://github.com/JuliaFreireSoubhia)
+- GitHub: [@JuliaFreireSoubhia](https://github.com/JuliaFreireSoubhia)
+- Projeto online: [Explorar o ASTRA](https://astra-henna-delta.vercel.app/)
+
+
